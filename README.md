@@ -43,7 +43,7 @@ Every machine below has been tested and confirmed working. Each family has a wik
 | [Memotech MTX](https://en.wikipedia.org/wiki/Memotech_MTX) | MTX500 | [All models](https://github.com/visrealm/pico9918/wiki/Memotech-MTX) |
 | [Sord M5](https://en.wikipedia.org/wiki/Sord_M5) | Sord M5 | [All models](https://github.com/visrealm/pico9918/wiki/Sord-M5) |
 | [Powertran Cortex](http://powertrancortex.com/) | Cortex | [All models](https://github.com/visrealm/pico9918/wiki/Powertran-Cortex) |
-| Homebrew | Troy Schrapel's [HBC-56](https://github.com/visrealm/hbc-56), Stuart Connor's [TM990](http://www.stuartconner.me.uk/tm990/tm990.htm), John Winans' [Z80-Retro](https://github.com/Z80-Retro), Martin's [Z80Ardu](https://www.dev-tronic.de/?p=74) | [All projects](https://github.com/visrealm/pico9918/wiki/Homebrew-Projects) |
+| Homebrew | Troy Schrapel's [HBC-56](https://github.com/visrealm/hbc-56),  Digicool Things [MECB](https://digicoolthings.com/minimalist-europe-card-bus-mecb), Stuart Connor's [TM990](http://www.stuartconner.me.uk/tm990/tm990.htm), John Winans' [Z80-Retro](https://github.com/Z80-Retro), Martin's [Z80Ardu](https://www.dev-tronic.de/?p=74) | [All projects](https://github.com/visrealm/pico9918/wiki/Homebrew-Projects) |
 
 Any other machine using a TMS9918, TMS9918A, TMS9928A, TMS9929A, TMS9118, TMS9128 or TMS9129 in a standard 40-pin DIP socket should also work. There are no known unsupported devices. If you have tested the PICO9918 on a machine that isn't listed, please let me know and I'll happily add it. :)
 
